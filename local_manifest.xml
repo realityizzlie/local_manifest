@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/tulip" name="realityizzlie/device_xiaomi_tulip.git" remote="github" revision="pixelexperience" />
+ <project path="vendor/xiaomi/tulip" name="realityizzlie/vendor_xiaomi_tulip.git" remote="github" revision="master" />
+ <project path="kernel/xiaomi/sdm660" name="realityizzlie/kernel_xiaomi_tulip.git" remote="github" revision="pixelexperience" />
+ 
+</manifest>
